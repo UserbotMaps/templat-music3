@@ -1,1 +1,1 @@
-worker: docker-compose up -d
+worker: python3 -m Music
